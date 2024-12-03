@@ -18,8 +18,7 @@ MediSight is a mobile application designed to assist individuals in identifying 
 
 ### Key Features:  
 - **Wound Classification**: Detect wound types such as burns, cuts, bruises, and abrasions.  
-- **Care Recommendations (Step and Product)**: Provide product suggestions and detailed steps for wound treatment.  
-- **Reminders**: Send care reminders to promote consistent and effective wound management.  
+- **Care Recommendations (Step and Product)**: Provide product suggestions and detailed steps for wound treatment.   
 - **Wound Care Article**: Enhance public awareness about proper wound care and self-treatment practices.  
 
 ---
