@@ -8,18 +8,19 @@
 1. [Introduction](#introduction)  
 2. [Group Members](#group-members)  
 3. [Repository Structure](#repository-structure)  
-4. [Related Links](#related-links)  
-5. [Contact Information](#contact-information)  
+4. [Contact Information](#contact-information)  
 
 ---
 
 ## **Introduction**  
-MediSight is a mobile application designed to assist individuals in identifying and managing minor wounds through machine learning-based image classification. The app aims to address the lack of reliable guidance for self-treatment, which often results in improper care and delayed healing.  
+MediSight is a mobile application designed to assist individuals in identifying and managing minor wounds through machine learning-based image classification. The app addresses the lack of reliable guidance for self-treatment, which often results in improper care and delayed healing.  
 
 ### Key Features:  
-- **Wound Classification**: Detect wound types such as burns, cuts, bruises, and abrasions.  
-- **Care Recommendations (Step and Product)**: Provide product suggestions and detailed steps for wound treatment.   
-- **Wound Care Article**: Enhance public awareness about proper wound care and self-treatment practices.  
+1. **Wound Classification**: Detect minor wound types such as burns, cuts, bruises, and abrasions.  
+2. **Wound Care**: Provide step-by-step care instructions and recommend suitable medications or products.  
+3. **Health Service Locator**: Help users find pharmacies or healthcare facilities.  
+4. **Wound Care Articles**: Access a collection of articles about wound treatment, tips, tricks, and self-care practices.  
+5. **Chatbot Assistant**: Provide users with additional information about wound care.  
 
 ---
 
@@ -36,11 +37,25 @@ MediSight is a mobile application designed to assist individuals in identifying 
 
 ---
 
+## **Repository Structure**  
+The MediSight organization is divided into three main repositories, each dedicated to a specific domain:  
+
+1. **ML (Machine Learning)**  
+   - Contains datasets, model training notebooks, and trained model outputs.  
+
+2. **CC (Cloud Computing)**  
+   - Includes API documentation, endpoint definitions, and database configurations.  
+
+3. **MD (Mobile Development)**  
+   - Houses the mobile application codebase for the MediSight app.  
+
+---
+
 ## **Contact Information**  
 For questions or collaboration, please contact any team member listed above.  
 
---- 
+---
 
-**Let’s make wound care easier and more accessible with MediSight!**
+**Let’s make wound care easier and more accessible with MediSight!**  
 
----  
+---
