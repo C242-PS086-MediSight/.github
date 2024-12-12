@@ -12,6 +12,13 @@
 
 ---
 
+## 🔗 Download the APK
+
+Try the latest version of MediSight:
+[Download APK](https://drive.google.com/file/d/1wVZeMxuYSS5tILYMwmob_nRhCCwy7iSl/view?usp=sharing)
+
+---
+
 ## **Introduction**  
 MediSight is a mobile application designed to assist individuals in identifying and managing minor wounds through machine learning-based image classification. The app addresses the lack of reliable guidance for self-treatment, which often results in improper care and delayed healing.  
 
