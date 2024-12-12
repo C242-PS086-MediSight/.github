@@ -15,12 +15,67 @@
 ## **Introduction**  
 MediSight is a mobile application designed to assist individuals in identifying and managing minor wounds through machine learning-based image classification. The app addresses the lack of reliable guidance for self-treatment, which often results in improper care and delayed healing.  
 
-### Key Features:  
-1. **Wound Classification**: Detect minor wound types such as burns, cuts, bruises, and abrasions.  
-2. **Wound Care**: Provide step-by-step care instructions and recommend suitable medications or products.  
-3. **Health Service Locator**: Help users find pharmacies or healthcare facilities.  
-4. **Wound Care Articles**: Access a collection of articles about wound treatment, tips, tricks, and self-care practices.  
-5. **Chatbot Assistant**: Provide users with additional information about wound care.  
+# MediSight Features  
+
+## 🔑 Login & Register  
+- **Feature:** Secure login and registration system powered by **Firebase Authentication** in real-time.  
+- **Benefit:** Ensures user data security while offering a personalized experience.  
+
+---
+
+## 🧑‍💻 User Profile  
+- **Feature:**  
+  - Editable user profile with options to update photo, name, phone, date of birth, and address.  
+  - Integrated with Firebase Realtime Database to save and retrieve user data.  
+- **Benefit:** Keeps user information up-to-date for a more customized experience.  
+
+---
+
+## 🔍 Wound Classification  
+- **Feature:** AI-powered wound type detection for accurate classification.  
+- **Benefit:** Provides quick and reliable information about the wound type.  
+
+---
+
+## 📋 Wound Care Instructions  
+- **Feature:** Step-by-step wound care guidance with product recommendations.  
+- **Benefit:** Helps users perform optimal care tailored to the wound type.  
+
+---
+
+## 🗺 Health Service Locator  
+- **Feature:** Locate nearby pharmacies or healthcare facilities using **Google Maps SDK**.  
+- **Benefit:** Assists users in finding the nearest health services conveniently.  
+
+---
+
+## 📚 Wound Care Articles  
+- **Feature:** Educational content with tips, tricks, and best practices for wound care.  
+- **Benefit:** Enhances users' knowledge and confidence in managing wounds.  
+
+---
+
+## 🤖 Chatbot Assistant  
+- **Feature:** A virtual assistant that offers personalized wound care advice.  
+- **Benefit:** Provides real-time, relevant information and guidance to users.  
+
+---
+
+## 📜 Medical History  
+- **Feature:** Tracks wound care history, including saved diagnoses and time reports.  
+- **Benefit:** Helps users monitor their wound healing progress over time.  
+
+---
+
+## 💊 Medicine Information  
+- **Feature:**   Including name, price, Clear guidance on how to use the medicine, comprehensive details about the medicine's purpose and usage.
+- **Benefit:** Provides users with essential information about medicines for wound care.  
+
+---
+
+## 🔔 Notifications  
+- **Feature:** Receive reminders for wound care routines, health tips, and emergency updates.  
+- **Benefit:** Keeps users informed and disciplined in their wound care regimen.  
 
 ---
 
